@@ -1,24 +1,15 @@
-Oi 👋, I'm a Data Analyst
+Oi 👋, I'm Leonardo Cavalcante
 
 ______________________________________
 
-I'm a lover of data analyses
+I'm a passionate of data analyses and Power BI
 
-🔭 Atualmente estou trabalhando com análise e visualização de dados 
+🔭 Currently, I'm learning Advanced SQL
 
-🌱 Atualmente estou aprendendo 
+📝 My portfolio: 
 
-👯 Também estou compartilhando conteúdo no Youtube Canal Youtube
+💬 Ask me about SQL, Google Data Studio, Power BI, Excel e Python
 
-📝 
+📫 You can reach me here leonardo.lima364@gmail.com
 
-💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e Python
-
-📫Você me acha através do e-mail 
-
-📄 Fui fundado por 
-
-<!---
-LeoDataAnalyst/LeoDataAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 My linkedIn: https://www.linkedin.com/in/leonardo-lima-4379b218b/
