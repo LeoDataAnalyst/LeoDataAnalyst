@@ -6,7 +6,7 @@ I'm a passionate of data analyses and Power BI
 
 🔭 Currently, I'm learning Advanced SQL
 
-📝 My portfolio: 
+📝 My portfolio: https://calico-party-f17.notion.site/LEONARDO-CAVALCANTE-11b148628d158014bf9af5a9eb29fec4
 
 💬 Ask me about SQL, Google Data Studio, Power BI, Excel e Python
 
